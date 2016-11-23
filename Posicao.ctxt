@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Posicao
+comment0.text=\n\ Write\ a\ description\ of\ class\ Posicao\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=letra\ x\ y
+comment1.target=Posicao(char,\ int,\ int)
+comment2.params=letra\ posicoes
+comment2.target=java.util.List\ getPosicoes(char,\ java.util.List)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

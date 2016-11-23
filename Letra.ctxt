@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Letra
+comment0.text=\n\ Write\ a\ description\ of\ class\ Letra\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Letra\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=letra\ palavra
+comment2.target=boolean\ contemLetra(java.lang.String,\ java.lang.String)
+comment3.params=letra\ palavra\ world
+comment3.target=void\ preenchePosicoes(java.lang.String,\ java.lang.String,\ BG)
+comment4.params=letra\ achadas
+comment4.target=void\ criaLetras(char,\ java.util.List)
+comment5.params=
+comment5.target=void\ realizaPunicao()
+numComments=6
